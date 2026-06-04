@@ -35,6 +35,7 @@ Em resumo: este portfólio é uma **declaração de princípios** — ele prova 
 - Design system aplicado de forma consistente (variáveis CSS, espaçamento em múltiplos de 8px, radius 4px, tipografia Inter, etc.)
 - Foco forte em **acessibilidade**, **responsividade** e **performance**
 
+<<<<<<< HEAD
 O CSS possui comentários detalhados explicando a aplicação do Design System.
 
 ## 📁 Estrutura do Projeto
@@ -112,3 +113,6 @@ Este é um excelente estudo de caso para quem quer entender:
 **Desenvolvido com atenção aos detalhes e compromisso com a qualidade.**
 
 © 2026 Emanoel Cariolando
+=======
+O CSS possui comentários detalhados explicando a aplicação do Design System (inclusive referenciando um `design-system.md` que serviu de base).
+>>>>>>> 1d5f137699f622bfc7f63fa9bce652b6ae30b6c7
