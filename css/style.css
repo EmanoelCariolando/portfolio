@@ -455,9 +455,29 @@ a:hover {
 }
 
 .floating-icon img {
-  width: 194%; 
-  height: 189%;
+  width: 210%;
+  height: 263%;
   object-fit: contain;
+}
+
+.floating-icon img.springs {
+  width: 180%;
+  height: 180%;
+}
+
+.floating-icon img.nodes {
+  width: 180%;
+  height: 180%;
+}
+
+.floating-icon img.reacts {
+  width: 180%;
+  height: 180%;
+}
+
+.floating-icon img.javas {
+  width: 297%;
+  height: 263%;
 }
 
 /* Posicionamento dos ícones ao redor da foto */
