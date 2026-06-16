@@ -633,6 +633,15 @@ a:hover {
   display: block;
   object-fit: cover; /* preenche o espaço sem distorcer, cortando se necessário */
   border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+/* Efeito ao passar o mouse na imagem do projeto: traz a imagem um pouco para frente */
+.project-card:hover .project-image img,
+.project-card:hover .project-screenshot {
+  transform: scale(1.03);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
 
 /* 11. EXPERIÊNCIA */
